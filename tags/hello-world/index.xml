@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>hello world on Aritra Saha</title>
+        <link>https://aritra.xyz/tags/hello-world/</link>
+        <description>Recent content in hello world on Aritra Saha</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 18 Aug 2022 00:36:14 +0530</lastBuildDate><atom:link href="https://aritra.xyz/tags/hello-world/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello World</title>
+        <link>https://aritra.xyz/p/hello-world/</link>
+        <pubDate>Thu, 18 Aug 2022 00:36:14 +0530</pubDate>
+        
+        <guid>https://aritra.xyz/p/hello-world/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;Hello, World!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;So, I always wanted to have a life log / tracker kinda thing which I can use to document my experiences/learnings - this blog is an effort towards that. Maybe, years later - I look at it and have a good laugh or maybe it helps someone, who knows :)&lt;/p&gt;
+&lt;p&gt;Well, it&amp;rsquo;s already 1am, I should head to bed probably. Kinda sad as I have to soon go back to college in Chennai (have to pack stuff in morning - have the train the next day). Will again miss being at home :(&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

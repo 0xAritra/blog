@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Aritra Saha</title>
+        <link>https://aritra.xyz/</link>
+        <description>Recent content on Aritra Saha</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 18 Aug 2022 00:36:14 +0530</lastBuildDate><atom:link href="https://aritra.xyz/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello World</title>
+        <link>https://aritra.xyz/p/hello-world/</link>
+        <pubDate>Thu, 18 Aug 2022 00:36:14 +0530</pubDate>
+        
+        <guid>https://aritra.xyz/p/hello-world/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;Hello, World!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;So, I always wanted to have a life log / tracker kinda thing which I can use to document my experiences/learnings - this blog is an effort towards that. Maybe, years later - I look at it and have a good laugh or maybe it helps someone, who knows :)&lt;/p&gt;
+&lt;p&gt;Well, it&amp;rsquo;s already 1am, I should head to bed probably. Kinda sad as I have to soon go back to college in Chennai (have to pack stuff in morning - have the train the next day). Will again miss being at home :(&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://aritra.xyz/archives/</link>
+        <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://aritra.xyz/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>https://aritra.xyz/about/</link>
+        <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://aritra.xyz/about/</guid>
+        <description>&lt;p&gt;Hi, I am Aritra Saha. I am currently in my junior year @ SRMIST, Ramapuram doing my BTech in CSE w/ AI/ML.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>https://aritra.xyz/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://aritra.xyz/links/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://aritra.xyz/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://aritra.xyz/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
